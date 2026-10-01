@@ -27,9 +27,9 @@ interactive dashboard that makes the sales performance easier to understand.
 
 ## Project Files
 
-- `Salesdata.csv` — Raw sales transaction data
-- `dashboard.png` — Final Excel dashboard
-- `pivot_table.png` — PivotTable analysis
+- `SalesData.csv` — Raw sales transaction data
+- `Dashboard.png` — Final Excel dashboard
+- `Pivot_Table.png` — PivotTable analysis
 
 ## Reference
 
